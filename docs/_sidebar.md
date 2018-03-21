@@ -10,5 +10,6 @@
   * [<span></span>渐进增强和优雅降级](css-jjyy.md)
   * [清除浮动的方法](css-clear.md)
   * [<span></span>对BFC相关知识的了解](css-bfc.md)
+  * [position属性的作用](css-position.md)
 * CSS3
   * [介绍一下box-sizing<span class='new'></span>](css-boxs.md)
