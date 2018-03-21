@@ -8,5 +8,6 @@
   * [CSS 引入的方式有哪些? link 和@import 的区别是?](css-link.md)
   * [<span></span>CSS隐藏元素的几种方式及区别？](css-hidden.md)
   * [<span></span>渐进增强和优雅降级](css-jjyy.md)
+  * [清除浮动的方法](css-clear.md)
 * CSS3
   * [介绍一下box-sizing<span class='new'></span>](css-boxs.md)
