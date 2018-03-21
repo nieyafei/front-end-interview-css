@@ -6,6 +6,6 @@
   * [<span></span>CSS中居中的几种方式?](css-2.md)
   * [<span></span>不定宽高的 DIV，垂直水平居中<span class='new'></span>](css-height.md)
   * [CSS 引入的方式有哪些? link 和@import 的区别是?](css-link.md)
-  
+  * [<span></span>CSS隐藏元素的几种方式及区别？](css-hidden.md)
 * CSS3
   * [介绍一下box-sizing<span class='new'></span>](css-boxs.md)
