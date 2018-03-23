@@ -11,5 +11,6 @@
   * [清除浮动的方法](css-clear.md)
   * [<span></span>对BFC相关知识的了解](css-bfc.md)
   * [position属性的作用](css-position.md)
+  * [<span></span>CSS优先级算法如何计算？](css-ip.md)
 * CSS3
   * [介绍一下box-sizing<span class='new'></span>](css-boxs.md)
