@@ -19,3 +19,4 @@
 * CSS3
   * [介绍一下box-sizing<span class='new'></span>](css-boxs.md)
   * [CSS3新增伪类有那些?](css3-1.md)
+  * [:before 和 ::before 区别? ](css3-2.md)
