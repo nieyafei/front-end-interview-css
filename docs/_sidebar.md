@@ -14,6 +14,7 @@
   * [<span></span>CSS优先级算法如何计算？](css-ip.md)
   * [span标签的width和height分别为多少？](css-wi-he-code.md)
   * [display:inline-block 什么时候会显示间隙？](css-3.md)
+  * [常见的兼容性问题？](css-4.md)
 
 * CSS3
   * [介绍一下box-sizing<span class='new'></span>](css-boxs.md)
