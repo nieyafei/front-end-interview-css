@@ -13,7 +13,6 @@
 }
 ```
 
-
 ### text-overflow
 
 ?> `text-overflow` 属性规定当文本溢出包含元素时发生的事情
